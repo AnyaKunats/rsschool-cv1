@@ -1,0 +1,17 @@
+.head {
+    text-align: center;
+}
+.image{
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text{
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 550px;
+    background-color: rgb(219, 241, 255);
+}
