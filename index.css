@@ -11,7 +11,11 @@
     padding: 15px;
     margin-left: auto;
     margin-right: auto;
-    width: 800px;
-    height: 550px;
+    width: 500px;
+    height: 320px;
     background-color: rgb(219, 241, 255);
+}
+.footer{
+    text-align: center;
+    margin: 20px;
 }
